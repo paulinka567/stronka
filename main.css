@@ -1,0 +1,28 @@
+body{
+    background-image:url(./sunrise-gdc2b322a9_1920.jpg);
+         margin: 0;
+         padding: 0;
+}
+.cityname{
+    color: rgb white;
+    background-color: rgb(204, 206, 224);
+    margin: 0px;
+    padding: 8px;
+    text-align: center;
+}
+.country{
+    color: red;
+    
+}
+.clounds{
+    color:red;
+}
+.temperature{
+    color:red;
+}
+.temperturemin{
+color: red;
+}
+.temperaturemax{
+color: red;
+}
